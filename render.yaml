@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-wifi-extenders-offices-169
+  runtime: static
+  staticPublishPath: public
